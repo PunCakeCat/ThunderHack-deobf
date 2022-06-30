@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "ThunderHack Ejje",
+    "name": "ThunderHack Ejje",
+    "description": "Player  assistance mod (cheats for gays)",
+    "version": "0.0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "niggahack.png",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "MrZak34",
+      "Pan4ur"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
